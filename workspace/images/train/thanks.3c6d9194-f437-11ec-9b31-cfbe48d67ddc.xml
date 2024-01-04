@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>thanks.3c6d9194-f437-11ec-9b31-cfbe48d67ddc.jpg</filename>
+	<path>C:\Users\rahil\Documents\GitHub\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\thanks.3c6d9194-f437-11ec-9b31-cfbe48d67ddc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>આભાર</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>250</ymin>
+			<xmax>339</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

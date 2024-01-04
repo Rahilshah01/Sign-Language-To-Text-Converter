@@ -1,0 +1,32 @@
+item { 
+	name:'hello'
+	id:1
+}
+item { 
+	name:'love'
+	id:2
+}
+item { 
+	name:'yes'
+	id:3
+}
+item { 
+	name:'no'
+	id:4
+}
+item { 
+	name:'father'
+	id:5
+}
+item { 
+	name:'mother'
+	id:6
+}
+item { 
+	name:'friend'
+	id:7
+}
+item { 
+	name:'thankyou'
+	id:8
+}

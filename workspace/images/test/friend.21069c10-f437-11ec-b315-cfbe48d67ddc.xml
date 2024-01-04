@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>friend.21069c10-f437-11ec-b315-cfbe48d67ddc.jpg</filename>
+	<path>C:\Users\rahil\Documents\GitHub\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\friend.21069c10-f437-11ec-b315-cfbe48d67ddc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>મિત્ર</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>304</ymin>
+			<xmax>410</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>
